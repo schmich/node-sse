@@ -1,0 +1,34 @@
+{
+  "name": "node-sse",
+  "version": "0.0.2",
+  "description": "Server-sent events for Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/schmich/node-sse.git"
+  },
+  "keywords": [
+    "sse",
+    "server-sent",
+    "node-sse"
+  ],
+  "bugs": {
+    "url": "https://github.com/schmich/node-sse/issues"
+  },
+  "author": {
+    "name": "Chris Schmich",
+    "email": "schmch@gmail.com",
+    "url": "https://github.com/schmich"
+  },
+  "homepage": "https://github.com/schmich/node-sse",
+  "contributors": [],
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
